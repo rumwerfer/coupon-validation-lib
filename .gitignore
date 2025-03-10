@@ -1,3 +1,5 @@
+valid_coupon_inputs.json
+
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
